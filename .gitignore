@@ -6,3 +6,7 @@ target/
 classes/
 .DS_Store
 *.sw[a-p]
+*.class
+*.jar
+*.war
+*.ear
