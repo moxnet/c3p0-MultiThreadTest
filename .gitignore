@@ -1,0 +1,8 @@
+.classpath
+.project
+.wtpmodules
+.settings/
+target/
+classes/
+.DS_Store
+*.sw[a-p]
